@@ -22,6 +22,7 @@ authors = [{ name = "TakiMoysha", email = "mpwema782@gmailcom" }]
 dynamic = ["version", "description"]
 readme = "README.md"
 dependencies = [
+  "fastapi",
   "python-dotenv",
 ]
 
