@@ -21,6 +21,10 @@ name = "taki_ps"
 authors = [{ name = "TakiMoysha", email = "mpwema782@gmailcom" }]
 dynamic = ["version", "description"]
 readme = "README.md"
+dependencies = [
+  "python-dotenv",
+]
 
 [project.urls]
 Home = "https://github.com/TakiMoysha/TakiProsto-Server"
+
